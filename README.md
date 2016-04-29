@@ -9,5 +9,5 @@ In order to make it runnable make sure you have NodeJS and npm package installer
 2. cd ReactNativeNavigator
 3. npm install
 4. react-native start
-opnen new console tab by Ctrl+Shift+t
-5. react-native run-android #make sure you have connect to your android phone or open emulator on your machine.
+5. Ctrl+Shift+t #opnen new console tab
+6. react-native run-android #make sure you have connect to your android phone or open emulator on your machine.
